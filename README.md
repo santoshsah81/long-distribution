@@ -1,9 +1,12 @@
 # long-distribution  
 ## COMPUTATION  
 - the use of computers, especially as a subject of research or study is **COMPUTATION**
-   - # CPU
+   - ### CPU
       -The computer's central processing unit (CPU) is the portion of a computer that retrieves and executes instructions.
-   - # GPU
+   - ### GPU
       -Graphics processing unit (GPU) a specialized processor originally designed to accelerate graphics rendering.
-   - # DPU
+   - ### DPU
       -A data processing unit (DPU) is a programmable computer processor that tightly integrates a general-purpose CPU with network interface hardware
+   - ### TPU
+      - Tensor Processing Units (TPUs) are Google's custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads.
+   - ### VM
