@@ -1,1 +1,9 @@
-# long-distribution
+# long-distribution  
+## COMPUTATION  
+- the use of computers, especially as a subject of research or study is **COMPUTATION**
+   - # CPU
+      -The computer's central processing unit (CPU) is the portion of a computer that retrieves and executes instructions.
+   - # GPU
+      -Graphics processing unit (GPU) a specialized processor originally designed to accelerate graphics rendering.
+   - # DPU
+      -A data processing unit (DPU) is a programmable computer processor that tightly integrates a general-purpose CPU with network interface hardware
